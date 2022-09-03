@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: takes least time when sorted Ω(n).
+
+sort2 uses: Merge Sort
+
+How do you know?: Takes almost similar time when sorted and reversed, however takes less time than
+both sort1 and sort2 when reversed.
+
+sort3 uses: Selection Sort
+
+How do you know?: Takes almost similar times when sorted and reversed, indicating to selection sort with
+Θ(n²)
